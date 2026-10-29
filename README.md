@@ -20,3 +20,5 @@
 ![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=Gregorio14izi&layout=compact&theme=tokyonight)
 
 ![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Gregorio14izi&theme=tokyonight)
+
+![Contador de Visitas](https://profile-counter.glitch.me/Gregorio14izi/count.svg)
