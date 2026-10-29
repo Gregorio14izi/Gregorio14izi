@@ -11,7 +11,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03a000-a470-11eb-9e93-dda570a0000b.gif" width="100%">
 
 ### 📊 Estatísticas e Atividade
 
