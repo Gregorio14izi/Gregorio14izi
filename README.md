@@ -21,4 +21,6 @@
 
 ![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Gregorio14izi&theme=tokyonight)
 
-![Contador de Visitas](https://profile-counter.glitch.me/Gregorio14izi/count.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gregorio14izi&color=blueviolet&style=for-the-badge" alt="Contador de Visitas" />
+</p>
